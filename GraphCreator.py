@@ -119,7 +119,8 @@ removeFiles()
 #MakeChain(n)
 #MakeBiPart(n)
 
-Matrix = MakeKValue(20)
+Matrix = m2
+
 
 print(Matrix)
 MatrixToMD(Matrix)
